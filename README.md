@@ -32,3 +32,12 @@ $ npm run start
 
 # watch mode
 $ npm run dev
+```
+
+## Api testing using postmen
+
+```bash
+# import collection Product management.postman_collection.json from project root folder
+```
+
+
